@@ -112,12 +112,3 @@ CIDP <- function(amat, x, y, z, verbose=TRUE) {
     return(list(id=FALSE, query=query))
   }
 }
-
-
-
-#source("PAGUtils.R")
-#source("PAGCalculus.R")
-
-# Returns P_x(y|z) or FAIL
-# Input:
-# amat: a pcalg adj matrix corresponding to apag over V
