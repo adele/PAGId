@@ -1,0 +1,12 @@
+Package: PAGId
+Type: Package
+Title: Algorithms for Identification of (Conditional) Causal Effects from a Partial Ancestral Graph
+Version: 1.0
+Author: Adèle Helena Ribeiro <adele.helena@gmail.com>
+Maintainer: Adèle Helena Ribeiro <adele.helena@gmail.com>
+Description: This package implements the CIDP and IDP algorithms for identifying (conditional) causal effects from a Partial Ancentral Graph (PAG). Technical details are provided in the paper by Jaber A., Ribeiro A. H., Zhang J., and Bareinboim E., (2022) entitled "Causal Identification under Markov equivalence: Calculus, Algorithm, and Completeness".
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: pcalg, dagitty
+RoxygenNote: 7.2.3
