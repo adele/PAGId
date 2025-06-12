@@ -1,4 +1,4 @@
-# PAGId: An Algorithm for (Conditional) Causal Effect Identification in Partial Ancestral Graphs
+# PAGId R Package: Algorithms for (Conditional) Causal Effect Identification in Partial Ancestral Graphs
 
 ## Overview
 
